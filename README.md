@@ -1,6 +1,6 @@
-AI Girlfriend My Secret Play Privacy Policy
-
 Last Updated: September 8, 2025
+
+AI Girlfriend My Secret Play Privacy Policy
 
 Information We Collect
 
