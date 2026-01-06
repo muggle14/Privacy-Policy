@@ -60,6 +60,13 @@ Changes to This Policy
 
 We may update this Privacy Policy periodically. Changes will be reflected by updating the “Last Updated” date above.
 
+### Data Safety Summary
+- Data collected: User-generated content (mood entries, journal notes)
+- Data processed on-device only
+- Data shared: None
+- Data used for tracking: None
+- Account creation: Not required
+
 ⸻
 
 Contact Us
